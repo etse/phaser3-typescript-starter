@@ -5,11 +5,9 @@ To get started just clone or fork this repo, run `npm install` and start coding.
 
 ### Requirements
 
-We need [Node.js](https://nodejs.org) to install and run scripts.
+* [Node.js](https://nodejs.org)
 
 ## Install and run
-
-Run next commands in your terminal:
 
 | Command | Description |
 |---------|-------------|
