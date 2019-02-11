@@ -1,4 +1,5 @@
-# Phaser 3 Typescript start
+# Phaser 3 Typescript starter
+
 A Phaser 3 Typescript starter. Assets are stored in the `assets-folder`.
 To get started just clone or fork this repo, run `npm install` and start coding. Use `npm start` to launch a webserver to test your code.
 
