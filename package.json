@@ -15,15 +15,15 @@
   "author": "Steffen Hageland",
   "license": "MIT",
   "devDependencies": {
-    "copy-webpack-plugin": "^4.6.0",
+    "copy-webpack-plugin": "^5.0.1",
     "html-webpack-plugin": "^3.2.0",
     "ts-loader": "^5.3.3",
-    "typescript": "^3.2.4",
-    "webpack": "^4.20.0",
-    "webpack-cli": "^3.2.1",
-    "webpack-dev-server": "^3.1.14"
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
-    "phaser": "^3.15.1"
+    "phaser": "^3.16.2"
   }
 }
